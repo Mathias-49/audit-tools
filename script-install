@@ -17,6 +17,6 @@ sudo apt install -y \
   wget \
   curl \
   nikto \
-  git \
+  git
 
 echo "[+] Installation terminée !"
