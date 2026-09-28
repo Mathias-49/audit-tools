@@ -16,7 +16,7 @@ sudo apt install -y \
   curl \
   wget \
   curl \
-  nikto \
   git
 
+  git clone https://github.com/sullo/nikto
 echo "[+] Installation terminée !"
