@@ -16,7 +16,9 @@ sudo apt install -y \
   curl \
   wget \
   curl \
-  git
+  git \
+  libxml-writer-perl \
+  libnet-ssleay-perl
 
   git clone https://github.com/sullo/nikto
 echo "[+] Installation terminée !"
